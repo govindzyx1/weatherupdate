@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Return502" version="SHA-512:6a9cd859a7197494374bc2f1b8cf48eb71361e26ea9bb48d471bc4b40ce2cb6ec0b2f8f184a506e767e9fc69906ff0e5ca2145bac37d04398ef929dabb7a5ee3"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:da1966764cbd9d4128c36fada74f9c3e1c07d919c9115a4d28bc890acfd7c928cfdb1ea53327d7cdfa259fd2a36b67776e804d8a60d7cb19f96aecfe2d45e8db"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:c3eee3014708463df37ad3e686540db40311f0f20b32876fccc5aa12ec4108c8c1dfb6d0f039d6f18abf9044f60547d98197625a27ced6029fbeb916351b68cc"/>
+    </TargetEndpoints>
+</Manifest>

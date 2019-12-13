@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RaiseFault async="false" continueOnError="false" enabled="true" name="Return502">
+    <DisplayName>Return502</DisplayName>
+    <Properties/>
+    <FaultResponse>
+        <Set>
+            <Headers/>
+            <Payload contentType="application/json">\{"errorCode":"502", "description":"Connection refused by the TargetServer Contact suppport"} </Payload>
+            <StatusCode>502</StatusCode>
+            <ReasonPhrase>Server Error</ReasonPhrase>
+        </Set>
+    </FaultResponse>
+    <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+</RaiseFault>
